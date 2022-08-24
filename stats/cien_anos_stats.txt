@@ -1,0 +1,12 @@
+READING text from STDIN. Hit ctrl-d when done entering text.
+DONE.
+HERE are the word statistics of that text:
+
+That text was 139128 words in length.
+
+There are 15525 distinct words used in that text.
+
+The top 100 ranked words (with their frequencies) are:
+1. de:8861, 2. la:6117, 3. que:4676, 4. y:4148, 5. el:4056, 6. en:3891, 7. a:3165, 8. los:2376, 9. se:2158, 10. con:1987, 11. un:1786, 12. las:1535, 13. una:1506, 14. no:1471, 15. por:1470, 16. su:1448, 17. le:1175, 18. del:1148, 19. para:1021, 20. lo:898, 21. haba:892, 22. al:853, 23. aureliano:794, 24. sus:675, 25. como:609, 26. era:603, 27. ms:584, 28. cuando:538, 29. pero:522, 30. rsula:514, 31. sin:497, 32. arcadio:480, 33. casa:463, 34. jos:424, 35. fue:423, 36. buenda:406, 37. ella:364, 38. estaba:358, 39. aos:357, 40. hasta:347, 41. l:324, 42. coronel:312, 43. amaranta:310, 44. segundo:308, 45. porque:301, 46. dijo:283, 47. tan:273, 48. entonces:272, 49. tiempo:269, 50. desde:246, 51. mrquez:241, 52. si:235, 53. despus:229, 54. vez:227, 55. donde:226, 56. sino:219, 57. fernanda:218, 58. soledad:217, 59. tena:211, 60. ni:208, 61. haban:206, 62. slo:204, 63. todo:196, 64. mientras:192, 65. dos:191, 66. gabriel:184, 67. cien:182, 68. noche:181, 69. macondo:180, 70. antes:176, 71. garca:173, 72. les:168, 73. ya:166, 74. nadie:162, 75. hizo:160, 76. da:159, 77. guerra:152, 78. tarde:149, 79. es:144, 80. mismo:143, 81. cuarto:141, 82. mujer:140, 83. vio:139, 84. hombre:137, 85. muerte:136, 86. nunca:136, 87. mundo:132, 88. siempre:131, 89. tres:129, 90. volvi:129, 91. rebeca:129, 92. dio:125, 93. eran:125, 94. vida:124, 95. estaban:124, 96. poco:123, 97. das:122, 98. ser:118, 99. entre:118, 100. qu:118
+
+Among its 15525 words, 7997 of them appear exactly once.

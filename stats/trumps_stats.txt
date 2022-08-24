@@ -1,0 +1,12 @@
+READING text from STDIN. Hit ctrl-d when done entering text.
+DONE.
+HERE are the word statistics of that text:
+
+That text was 5593 words in length.
+
+There are 1291 distinct words used in that text.
+
+The top 100 ranked words (with their frequencies) are:
+1. the:357, 2. news:156, 3. and:153, 4. fake:152, 5. to:130, 6. is:101, 7. a:89, 8. of:83, 9. in:74, 10. i:68, 11. that:67, 12. media:61, 13. was:56, 14. they:50, 15. it:48, 16. are:43, 17. on:41, 18. this:41, 19. with:40, 20. for:40, 21. be:37, 22. or:34, 23. 'url':33, 24. have:32, 25. but:30, 26. all:30, 27. by:30, 28. not:29, 29. just:28, 30. their:26, 31. never:26, 32. as:26, 33. great:24, 34. me:22, 35. has:22, 36. now:21, 37. about:21, 38. he:21, 39. will:20, 40. our:20, 41. my:20, 42. at:20, 43. president:19, 44. more:19, 45. only:19, 46. very:19, 47. up:19, 48. big:18, 49. story:18, 50. so:18, 51. do:17, 52. cnn:16, 53. people:16, 54. even:16, 55. bad:16, 56. would:16, 57. party:15, 58. we:15, 59. new:15, 60. democrat:15, 61. which:15, 62. you:15, 63. him:15, 64. what:15, 65. out:15, 66. like:14, 67. said:14, 68. other:14, 69. no:14, 70. from:14, 71. corrupt:13, 72. doing:13, 73. nothing:12, 74. had:12, 75. totally:12, 76. his:12, 77. democrats:12, 78. fact:11, 79. trump:11, 80. witch:11, 81. rt:11, 82. than:10, 83. an:10, 84. statement:10, 85. economy:10, 86. been:10, 87. s:10, 88. who:10, 89. far:10, 90. reporting:10, 91. many:10, 92. show:9, 93. when:9, 94. got:9, 95. good:9, 96. dont:9, 97. working:9, 98. its:9, 99. them:9, 100. left:9
+
+Among its 1291 words, 679 of them appear exactly once.

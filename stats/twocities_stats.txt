@@ -1,0 +1,12 @@
+READING text from STDIN. Hit ctrl-d when done entering text.
+DONE.
+HERE are the word statistics of that text:
+
+That text was 139881 words in length.
+
+There are 10854 distinct words used in that text.
+
+The top 100 ranked words (with their frequencies) are:
+1. the:8191, 2. and:4998, 3. of:4134, 4. to:3544, 5. a:2982, 6. in:2640, 7. it:2052, 8. his:2006, 9. i:1963, 10. that:1934, 11. he:1845, 12. was:1765, 13. you:1486, 14. with:1353, 15. had:1297, 16. as:1148, 17. at:1047, 18. her:1038, 19. for:974, 20. him:965, 21. on:932, 22. not:860, 23. is:843, 24. be:780, 25. have:742, 26. s:670, 27. said:660, 28. were:658, 29. but:654, 30. my:654, 31. mr:621, 32. this:592, 33. so:583, 34. by:579, 35. there:576, 36. all:571, 37. they:566, 38. no:551, 39. from:529, 40. me:522, 41. if:471, 42. she:460, 43. out:446, 44. one:441, 45. or:436, 46. been:435, 47. when:434, 48. which:409, 49. them:394, 50. what:382, 51. who:378, 52. lorry:366, 53. an:349, 54. your:346, 55. would:341, 56. are:335, 57. into:319, 58. their:318, 59. do:315, 60. up:309, 61. defarge:300, 62. will:295, 63. man:294, 64. upon:291, 65. could:282, 66. little:265, 67. more:262, 68. any:261, 69. time:260, 70. now:256, 71. then:253, 72. hand:248, 73. before:232, 74. down:232, 75. miss:232, 76. know:230, 77. some:229, 78. again:228, 79. its:227, 80. t:225, 81. am:225, 82. doctor:222, 83. himself:219, 84. very:217, 85. than:216, 86. two:215, 87. good:209, 88. like:199, 89. other:198, 90. see:198, 91. father:194, 92. looked:193, 93. long:192, 94. never:192, 95. madame:192, 96. face:187, 97. these:187, 98. here:187, 99. old:186, 100. made:185
+
+Among its 10854 words, 5214 of them appear exactly once.

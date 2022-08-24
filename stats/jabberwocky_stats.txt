@@ -1,0 +1,12 @@
+READING text from STDIN. Hit ctrl-d when done entering text.
+DONE.
+HERE are the word statistics of that text:
+
+That text was 166 words in length.
+
+There are 90 distinct words used in that text.
+
+The top 10 ranked words (with their frequencies) are:
+1. the:19, 2. and:14, 3. he:7, 4. in:6, 5. jabberwock:3, 6. my:3, 7. through:3, 8. twas:2, 9. brillig:2, 10. slithy:2
+
+Among its 90 words, 55 of them appear exactly once.

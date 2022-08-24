@@ -1,0 +1,12 @@
+READING text from STDIN. Hit ctrl-d when done entering text.
+DONE.
+HERE are the word statistics of that text:
+
+That text was 146763 words in length.
+
+There are 10659 distinct words used in that text.
+
+The top 100 ranked words (with their frequencies) are:
+1. the:10927, 2. of:5255, 3. and:4202, 4. to:3685, 5. a:3188, 6. that:3171, 7. in:3040, 8. he:2728, 9. was:2370, 10. had:2175, 11. her:2046, 12. with:2018, 13. she:1984, 14. his:1886, 15. on:1158, 16. him:1127, 17. not:1090, 18. it:1077, 19. for:1050, 20. they:963, 21. as:877, 22. one:812, 23. by:806, 24. would:792, 25. at:779, 26. aureliano:766, 27. but:746, 28. who:674, 29. when:670, 30. were:666, 31. from:597, 32. so:564, 33. time:546, 34. an:503, 35. them:477, 36. did:471, 37. arcadio:466, 38. ursula:459, 39. jose:439, 40. up:436, 41. which:423, 42. house:418, 43. been:414, 44. out:399, 45. their:386, 46. only:372, 47. years:371, 48. be:370, 49. because:356, 50. all:349, 51. into:342, 52. buendia:333, 53. could:330, 54. about:322, 55. no:320, 56. have:317, 57. colonel:308, 58. more:301, 59. said:298, 60. amaranta:289, 61. segundo:284, 62. then:265, 63. where:264, 64. even:263, 65. like:252, 66. solitude:250, 67. without:249, 68. hundred:245, 69. put:235, 70. there:235, 71. first:228, 72. went:228, 73. if:224, 74. gabriel:216, 75. made:209, 76. room:208, 77. over:207, 78. garcia:206, 79. any:205, 80. until:204, 81. you:203, 82. after:203, 83. x:202, 84. marques:201, 85. took:201, 86. before:194, 87. than:192, 88. through:191, 89. what:188, 90. two:187, 91. fernanda:187, 92. other:186, 93. same:186, 94. macondo:175, 95. man:172, 96. back:172, 97. night:172, 98. its:170, 99. left:169, 100. during:166
+
+Among its 10659 words, 4486 of them appear exactly once.

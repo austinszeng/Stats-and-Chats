@@ -1,0 +1,12 @@
+READING text from STDIN. Hit ctrl-d when done entering text.
+DONE.
+HERE are the word statistics of that text:
+
+That text was 815 words in length.
+
+There are 370 distinct words used in that text.
+
+The top 100 ranked words (with their frequencies) are:
+1. the:49, 2. and:33, 3. in:20, 4. of:20, 5. a:19, 6. she:17, 7. to:14, 8. on:13, 9. my:12, 10. for:11, 11. it:10, 12. her:10, 13. that:9, 14. is:8, 15. ship:8, 16. but:8, 17. with:7, 18. as:7, 19. from:7, 20. all:7, 21. down:7, 22. rock:6, 23. they:6, 24. i:6, 25. not:5, 26. hands:5, 27. scylla:5, 28. their:5, 29. me:4, 30. there:4, 31. no:4, 32. were:4, 33. cliff:4, 34. even:4, 35. hollow:4, 36. might:4, 37. up:4, 38. forth:4, 39. water:4, 40. company:4, 41. was:4, 42. other:3, 43. man:3, 44. or:3, 45. feet:3, 46. cave:3, 47. an:3, 48. his:3, 49. into:3, 50. would:3, 51. six:3, 52. long:3, 53. each:3, 54. out:3, 55. thou:3, 56. sucks:3, 57. be:3, 58. then:3, 59. men:3, 60. them:3, 61. sea:3, 62. circe:2, 63. spake:2, 64. two:2, 65. whereof:2, 66. one:2, 67. peak:2, 68. this:2, 69. never:2, 70. about:2, 71. nor:2, 72. may:2, 73. set:2, 74. thereon:2, 75. he:2, 76. darkness:2, 77. odysseus:2, 78. arrow:2, 79. deep:2, 80. therein:2, 81. voice:2, 82. greater:2, 83. than:2, 84. dreadful:2, 85. hath:2, 86. head:2, 87. black:2, 88. far:2, 89. fishes:2, 90. anywhere:2, 91. take:2, 92. have:2, 93. hard:2, 94. by:2, 95. first:2, 96. great:2, 97. beneath:2, 98. mighty:2, 99. charybdis:2, 100. thrice:2
+
+Among its 370 words, 249 of them appear exactly once.

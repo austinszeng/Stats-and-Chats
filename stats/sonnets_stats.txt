@@ -1,0 +1,12 @@
+READING text from STDIN. Hit ctrl-d when done entering text.
+DONE.
+HERE are the word statistics of that text:
+
+That text was 17674 words in length.
+
+There are 3399 distinct words used in that text.
+
+The top 100 ranked words (with their frequencies) are:
+1. and:489, 2. the:444, 3. to:409, 4. of:371, 5. my:363, 6. i:341, 7. in:322, 8. that:320, 9. thy:267, 10. thou:234, 11. with:181, 12. for:171, 13. is:169, 14. not:167, 15. but:164, 16. me:164, 17. a:163, 18. thee:162, 19. love:162, 20. so:145, 21. be:141, 22. as:121, 23. all:117, 24. you:111, 25. his:107, 26. which:107, 27. when:106, 28. it:104, 29. this:103, 30. by:92, 31. your:89, 32. doth:88, 33. do:84, 34. from:82, 35. on:80, 36. or:79, 37. no:77, 38. then:75, 39. have:75, 40. what:70, 41. are:69, 42. if:68, 43. more:64, 44. mine:63, 45. their:63, 46. shall:59, 47. sweet:55, 48. time:53, 49. will:53, 50. they:53, 51. beauty:52, 52. nor:52, 53. eyes:51, 54. art:51, 55. her:51, 56. yet:50, 57. heart:50, 58. than:48, 59. o:48, 60. can:45, 61. should:44, 62. thine:44, 63. now:44, 64. make:43, 65. one:43, 66. hath:43, 67. where:42, 68. he:42, 69. still:41, 70. how:40, 71. fair:40, 72. eye:39, 73. him:37, 74. see:35, 75. am:35, 76. she:34, 77. like:34, 78. those:33, 79. though:33, 80. true:33, 81. being:32, 82. some:31, 83. every:31, 84. own:30, 85. were:30, 86. such:30, 87. dost:29, 88. who:29, 89. upon:29, 90. was:29, 91. may:29, 92. myself:29, 93. say:28, 94. praise:28, 95. live:28, 96. world:27, 97. give:27, 98. most:27, 99. love's:27, 100. might:26
+
+Among its 3399 words, 2041 of them appear exactly once.
